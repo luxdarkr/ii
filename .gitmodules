@@ -1,0 +1,6 @@
+[submodule "project/src/external/googletest"]
+	path = project/src/external/googletest
+	url = https://github.com/google/googletest.git
+[submodule "project/src/external/cxxopts"]
+	path = project/src/external/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
